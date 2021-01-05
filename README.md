@@ -3,7 +3,8 @@ Kinetic Typography with PIXI, html5 method.
 Projects for Practicing Creative, Interactive Coding (with YouTube tutorials)
 
 [GO TO THE PAGE>>](https://yooheana.github.io/Kinetic-Typography-1/)
-[![Preview1](./kt1-preview_p.gif)
+
+![Preview1](./kt1-preview_p.gif)
 [![Preview2](./kt1-preview_purple.gif)](https://yooheana.github.io/Kinetic-Typography-1/)
 
 Details
